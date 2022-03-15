@@ -5,6 +5,7 @@
 
 
 📫 Contact with me:   [Telegram](https://t.me/nered1337) [LinkedIn](https://www.linkedin.com/in/dmitriy-ponomarenko-71a17b219/) [VK](https://vk.com/di2281488) 
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriiPonomarenko)
 
 <!--
 **DmitriiPonomarenko/DmitriiPonomarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
